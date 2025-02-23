@@ -59,8 +59,7 @@ const Projects = () => {
               <TechStack>
                 Made with:
                 <FaIcons.FaLinux color="#FCC624" size={30} />   
-                <SiGnubash color="#4EAA25" size={30} />    
-                <SiShell color="#FFD700" size={30} />   
+                <SiGnubash color="#4EAA25" size={30} />      
                 <SiSqlite color="#003B57" size={30} />  
                 <SiHtml5 color="#E34F26" size={30} />  
                 <SiCss3 color="#1572B6" size={30} />   
