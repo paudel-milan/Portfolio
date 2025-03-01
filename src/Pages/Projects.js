@@ -6,7 +6,7 @@ import {
   GithubButton, ProjectImage 
 } from "../Styles/ProjectStyles";
 
-import { SiGnubash, SiShell, SiSqlite, SiHtml5, SiCss3 } from "react-icons/si";
+import { SiGnubash, SiSqlite, SiHtml5, SiCss3 } from "react-icons/si";
 
 import * as FaIcons from "react-icons/fa";
 
