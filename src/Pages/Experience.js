@@ -4,28 +4,29 @@ import { FaBriefcase } from "react-icons/fa";
 
 const ExperienceSection = () => {
   const experiences = [
-    {
-      title: "Frontend Developer",
-      company: "Tech Solutions",
-      duration: "March 2023 - Present",
-      description:
-        "Built interactive UI components using React and improved website performance with Tailwind CSS.",
-    },
-    {
-      title: "Open Source Contributor",
-      company: "GitHub & GSoC",
-      duration: "September 2022 - February 2023",
-      description:
-        "Fixed bugs, added new features, and collaborated with teams on open-source projects.",
-    },
-    {
-      title: "Intern - Web Developer",
-      company: "Startup Hub",
-      duration: "June 2022 - August 2022",
-      description:
-        "Worked on modernizing the company's website using React, Next.js, and TypeScript.",
-    },
-  ];
+  {
+    title: "App & Website Designer",
+    company: "Everest English Boarding School",
+    duration: "September 2021 - April 2022",
+    description:
+      "Helped design and develop the school's mobile app and website. Focused on making it easy to use for students, teachers, and staff.",
+  },
+  {
+    title: "Community Leader/Representative",
+    company: "Coding For Social Good",
+    duration: "May 2022 - August 2022",
+    description:
+      "Visited schools to teach kids basic coding, programming concepts, and how to use Git and GitHub.",
+  },
+  {
+    title: "Web Developer Intern",
+    company: "Local Startup",
+    duration: "November 2022 - April 2023",
+    description:
+      "Worked on a small website project using HTML, CSS, and JavaScript. Helped fix bugs and improve layout design.",
+  },
+];
+
 
   return (
     <Section id="experience">
